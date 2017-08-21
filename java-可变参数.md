@@ -1,4 +1,4 @@
-```
+```java
 package test;
 
 import java.util.Arrays;
